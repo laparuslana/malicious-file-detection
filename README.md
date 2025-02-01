@@ -1,6 +1,6 @@
 # Malicious File Detection
 
-This project is designed to detect malicious files based on certain characteristics such as file size, entropy, extension, and hash analysis. The system uses machine learning to predict whether a file is safe or potentially harmful. The project consists of the following modules:
+This project is designed to detect malicious files based on certain characteristics such as file size, entropy, extension, and hash analysis. The system uses machine learning to predict whether a file is safe or potentially harmful.
 
 ## Table of Contents
 
